@@ -1,2 +1,2 @@
 # Java
-JAVA AND DSA
+java and dsa
